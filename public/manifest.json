@@ -1,0 +1,29 @@
+{
+  "14ec672bcfd9d0892ceb0a2be71ac7940278b85af753b4d8808a2ef80b6a21a6": {
+    "document": "RBI_eCurrency_Report_PERMANENT",
+    "timestamp": "2026-07-24T18:02:41.682Z",
+    "deviceID": "VAYUPUTRA-001",
+    "hash": "14ec672bcfd9d0892ceb0a2be71ac7940278b85af753b4d8808a2ef80b6a21a6",
+    "prevHash": null,
+    "version": "v6.2",
+    "compliance": "Watermark-Only, No-Card-Storage, No-Self-Evolving"
+  },
+  "f8fae0baf8a08a48092e317049906b04a95f11547f7bd85316c7a2b639c411ae": {
+    "document": "SupremeCourt_Submission_PERMANENT",
+    "timestamp": "2026-07-24T18:02:41.684Z",
+    "deviceID": "VAYUPUTRA-001",
+    "hash": "f8fae0baf8a08a48092e317049906b04a95f11547f7bd85316c7a2b639c411ae",
+    "prevHash": "14ec672bcfd9d0892ceb0a2be71ac7940278b85af753b4d8808a2ef80b6a21a6",
+    "version": "v6.2",
+    "compliance": "Watermark-Only, No-Card-Storage, No-Self-Evolving"
+  },
+  "0e1575d0bf74d6f6b7f098fe3d0ea3ca0f1cc9e51815d1dd3607561ed92a9a32": {
+    "document": "President_Defence_Submission_PERMANENT",
+    "timestamp": "2026-07-24T18:02:41.684Z",
+    "deviceID": "VAYUPUTRA-001",
+    "hash": "0e1575d0bf74d6f6b7f098fe3d0ea3ca0f1cc9e51815d1dd3607561ed92a9a32",
+    "prevHash": "f8fae0baf8a08a48092e317049906b04a95f11547f7bd85316c7a2b639c411ae",
+    "version": "v6.2",
+    "compliance": "Watermark-Only, No-Card-Storage, No-Self-Evolving"
+  }
+}
